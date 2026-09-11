@@ -43,8 +43,6 @@ XAML
 LiveChartsCore / SkiaSharp
 Git / GitHub
 
-Getting Started
-==
 Requirements
 ==
 Windows
