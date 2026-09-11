@@ -1,0 +1,117 @@
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.exe
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.deps.json
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.runtimeconfig.json
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026_MarkupCompile.cache
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.g.resources
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.AssemblyInfoInputs.cache
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.AssemblyInfo.cs
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.csproj.CoreCompileInputs.cache
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\refint\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.genruntimeconfig.cache
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ref\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.sourcelink.json
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\LiveChartsCore.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\GLWpfControl.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.csproj.AssemblyReference.cache
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWo.B9D0A0B4.Up2Date
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\TrendsWindow.baml
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\TrendsWindow.g.cs
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\AlarmsWindow.baml
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\AlarmsWindow.g.cs
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ProcessDetailsWindow.baml
+C:\Users\ivan_pavlov\source\repos\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ProcessDetailsWindow.g.cs
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_build_check\DiplomWork_Ivan_2026.deps.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_build_check\DiplomWork_Ivan_2026.runtimeconfig.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_build_check\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_build_check\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_build\DiplomWork_Ivan_2026.deps.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_build\DiplomWork_Ivan_2026.runtimeconfig.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_build\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_build\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_final\DiplomWork_Ivan_2026.deps.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_final\DiplomWork_Ivan_2026.runtimeconfig.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_final\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex_scada_trends_final\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\AppData\Local\Temp\CodexScadaBuild\Debug\net8.0-windows\DiplomWork_Ivan_2026.deps.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\CodexScadaBuild\Debug\net8.0-windows\DiplomWork_Ivan_2026.runtimeconfig.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\CodexScadaBuild\Debug\net8.0-windows\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\AppData\Local\Temp\CodexScadaBuild\Debug\net8.0-windows\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex-diplom-output\Debug\net8.0-windows\DiplomWork_Ivan_2026.exe
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex-diplom-output\Debug\net8.0-windows\DiplomWork_Ivan_2026.deps.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex-diplom-output\Debug\net8.0-windows\DiplomWork_Ivan_2026.runtimeconfig.json
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex-diplom-output\Debug\net8.0-windows\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\AppData\Local\Temp\codex-diplom-output\Debug\net8.0-windows\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.exe
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.deps.json
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.runtimeconfig.json
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\LiveChartsCore.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\GLWpfControl.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.csproj.AssemblyReference.cache
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\AlarmsWindow.baml
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ControllerSettingsWindow.baml
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ExperimentDisturbancesWindow.baml
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ProcessDetailsWindow.baml
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\TrendsWindow.baml
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\AlarmsWindow.g.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ControllerSettingsWindow.g.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ExperimentDisturbancesWindow.g.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ProcessDetailsWindow.g.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\TrendsWindow.g.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026_MarkupCompile.cache
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.g.resources
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.AssemblyInfoInputs.cache
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.AssemblyInfo.cs
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.csproj.CoreCompileInputs.cache
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.sourcelink.json
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWo.B9D0A0B4.Up2Date
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\refint\DiplomWork_Ivan_2026.dll
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.pdb
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\DiplomWork_Ivan_2026.genruntimeconfig.cache
+C:\Users\ivan_pavlov\Documents\Diplom Work SCADA 2026\DiplomWork_Ivan_2026\DiplomWork_Ivan_2026\obj\Debug\net8.0-windows\ref\DiplomWork_Ivan_2026.dll

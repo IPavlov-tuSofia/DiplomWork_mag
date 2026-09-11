@@ -1,0 +1,260 @@
+<Window x:Class="DiplomWork_Ivan_2026.ExperimentDisturbancesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Experiment disturbances"
+        Width="680"
+        Height="800"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        ShowInTaskbar="False"
+        Background="#595959"
+        KeyDown="Window_KeyDown">
+
+    <Border BorderBrush="#D99A1D" BorderThickness="2">
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="52"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <TextBlock Text="Experiment disturbances"
+                           Foreground="White"
+                           FontSize="24"
+                           FontWeight="Bold"
+                           VerticalAlignment="Center"/>
+            </Grid>
+
+            <Border Grid.Row="1"
+                    Background="#4A3510"
+                    BorderBrush="#D99A1D"
+                    BorderThickness="1"
+                    Padding="12"
+                    Margin="0,4,0,14">
+                <StackPanel>
+                    <TextBlock Text="EXPERIMENTAL / DIAGNOSTIC MODE"
+                               Foreground="#FFD166"
+                               FontWeight="Bold"
+                               FontSize="15"/>
+                    <TextBlock Text="These controls intentionally disturb the simulation and are not part of normal operator control."
+                               Foreground="White"
+                               TextWrapping="Wrap"
+                               Margin="0,4,0,0"/>
+                </StackPanel>
+            </Border>
+
+            <GroupBox Grid.Row="2"
+                      Header="Discretization steps"
+                      Background="#2B2B2B"
+                      Foreground="White"
+                      BorderBrush="#777"
+                      Padding="12"
+                      Margin="0,0,0,12">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="150"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Model step:"
+                               VerticalAlignment="Center"/>
+                    <ComboBox x:Name="ModelStepComboBox"
+                              Grid.Column="1"
+                              Height="32"
+                              Margin="0,0,12,8"
+                              SelectedIndex="1">
+                        <ComboBoxItem Content="0.05 s (20 Hz)" Tag="0.05"/>
+                        <ComboBoxItem Content="0.10 s (10 Hz)" Tag="0.1"/>
+                        <ComboBoxItem Content="0.20 s (5 Hz)" Tag="0.2"/>
+                        <ComboBoxItem Content="0.50 s (2 Hz)" Tag="0.5"/>
+                        <ComboBoxItem Content="1.00 s (1 Hz)" Tag="1"/>
+                    </ComboBox>
+
+                    <TextBlock Grid.Row="1"
+                               Text="Controller step:"
+                               VerticalAlignment="Center"/>
+                    <ComboBox x:Name="ControllerStepComboBox"
+                              Grid.Row="1"
+                              Grid.Column="1"
+                              Height="32"
+                              Margin="0,0,12,0"
+                              SelectedIndex="1">
+                        <ComboBoxItem Content="0.05 s (20 Hz)" Tag="0.05"/>
+                        <ComboBoxItem Content="0.10 s (10 Hz)" Tag="0.1"/>
+                        <ComboBoxItem Content="0.20 s (5 Hz)" Tag="0.2"/>
+                        <ComboBoxItem Content="0.50 s (2 Hz)" Tag="0.5"/>
+                        <ComboBoxItem Content="1.00 s (1 Hz)" Tag="1"/>
+                        <ComboBoxItem Content="2.00 s (0.5 Hz)" Tag="2"/>
+                        <ComboBoxItem Content="5.00 s (0.2 Hz)" Tag="5"/>
+                    </ComboBox>
+                    <Button x:Name="ApplyDiscretizationButton"
+                            Grid.Column="2"
+                            Grid.RowSpan="2"
+                            Content="APPLY STEPS"
+                            Height="32"
+                            Background="#1976D2"
+                            Foreground="White"
+                            FontWeight="Bold"
+                            Click="ApplyDiscretizationButton_Click"/>
+                    <TextBlock x:Name="CurrentDiscretizationTextBlock"
+                               Grid.Row="2"
+                               Grid.ColumnSpan="3"
+                               Foreground="#B0BEC5"
+                               TextWrapping="Wrap"
+                               Margin="0,8,0,0"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Grid.Row="3"
+                      Header="Vacuum leak"
+                      Background="#2B2B2B"
+                      Foreground="White"
+                      BorderBrush="#777"
+                      Padding="12"
+                      Margin="0,0,0,12">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="150"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="Leak multiplier:"
+                               VerticalAlignment="Center"/>
+                    <ComboBox x:Name="LeakMultiplierComboBox"
+                              Grid.Column="1"
+                              Height="32"
+                              Margin="0,0,12,0"
+                              SelectedIndex="0">
+                        <ComboBoxItem Content="Normal (×1)" Tag="1"/>
+                        <ComboBoxItem Content="Leak ×5" Tag="5"/>
+                        <ComboBoxItem Content="Leak ×10" Tag="10"/>
+                    </ComboBox>
+                    <Button x:Name="ApplyLeakButton"
+                            Grid.Column="2"
+                            Content="APPLY LEAK"
+                            Height="32"
+                            Background="#9A6700"
+                            Foreground="White"
+                            FontWeight="Bold"
+                            Click="ApplyLeakButton_Click"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Grid.Row="4"
+                      Header="Sensor fault"
+                      Background="#2B2B2B"
+                      Foreground="White"
+                      BorderBrush="#777"
+                      Padding="12"
+                      Margin="0,0,0,12">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="150"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Sensor:"
+                               VerticalAlignment="Center"/>
+                    <ComboBox x:Name="SensorComboBox"
+                              Grid.Column="1"
+                              Height="32"
+                              Margin="0,0,12,8"
+                              SelectedIndex="0">
+                        <ComboBoxItem Content="Chamber temperature" Tag="ChamberTemperature"/>
+                        <ComboBoxItem Content="Material temperature" Tag="MaterialTemperature"/>
+                        <ComboBoxItem Content="Pressure" Tag="Pressure"/>
+                    </ComboBox>
+
+                    <TextBlock Grid.Row="1"
+                               Text="Fault mode:"
+                               VerticalAlignment="Center"/>
+                    <ComboBox x:Name="FaultModeComboBox"
+                              Grid.Row="1"
+                              Grid.Column="1"
+                              Height="32"
+                              Margin="0,0,12,0"
+                              SelectedIndex="0">
+                        <ComboBoxItem Content="Frozen value" Tag="Frozen"/>
+                        <ComboBoxItem Content="Failed low" Tag="FailedLow"/>
+                        <ComboBoxItem Content="Failed high" Tag="FailedHigh"/>
+                    </ComboBox>
+                    <Button x:Name="ApplySensorFaultButton"
+                            Grid.Row="1"
+                            Grid.Column="2"
+                            Content="APPLY FAULT"
+                            Height="32"
+                            Background="#9A6700"
+                            Foreground="White"
+                            FontWeight="Bold"
+                            Click="ApplySensorFaultButton_Click"/>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Grid.Row="5"
+                      Header="Active disturbance state"
+                      Background="#252525"
+                      Foreground="White"
+                      BorderBrush="#777"
+                      Padding="12">
+                <StackPanel>
+                    <TextBlock x:Name="ActiveStateTextBlock"
+                               Text="No active experimental disturbances."
+                               Foreground="#00FF00"
+                               TextWrapping="Wrap"
+                               FontSize="14"/>
+                    <TextBlock x:Name="AvailabilityTextBlock"
+                               Foreground="#B0BEC5"
+                               TextWrapping="Wrap"
+                               Margin="0,10,0,0"/>
+                </StackPanel>
+            </GroupBox>
+
+            <Grid Grid.Row="6" Margin="0,16,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="210"/>
+                    <ColumnDefinition Width="110"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="Emergency Stop remains available on the main screen."
+                           Foreground="#D0D0D0"
+                           VerticalAlignment="Center"
+                           TextWrapping="Wrap"
+                           Margin="0,0,12,0"/>
+                <Button x:Name="ClearDisturbancesButton"
+                        Grid.Column="1"
+                        Content="CLEAR DISTURBANCES"
+                        Height="40"
+                        Margin="0,0,10,0"
+                        Background="#455A64"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        Click="ClearDisturbancesButton_Click"/>
+                <Button Grid.Column="2"
+                        Content="CLOSE"
+                        Height="40"
+                        Background="#B71C1C"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        Click="CloseButton_Click"/>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

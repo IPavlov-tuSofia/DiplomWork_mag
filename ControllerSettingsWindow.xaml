@@ -1,0 +1,113 @@
+<Window x:Class="DiplomWork_Ivan_2026.ControllerSettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Controller settings"
+        Width="520"
+        SizeToContent="Height"
+        MaxHeight="620"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        ShowInTaskbar="False"
+        Background="#595959"
+        KeyDown="Window_KeyDown">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="TitleTextBlock"
+                   Text="Temperature PID settings"
+                   Foreground="White"
+                   FontSize="22"
+                   FontWeight="Bold"
+                   Margin="0,0,0,8"/>
+
+        <TextBlock Grid.Row="1"
+                   Text="Enter non-negative controller coefficients. The changes will be used for the next batch."
+                   Foreground="#D0D0D0"
+                   TextWrapping="Wrap"
+                   Margin="0,0,0,14"/>
+
+        <Border Grid.Row="2"
+                Background="#2B2B2B"
+                BorderBrush="#777"
+                BorderThickness="1"
+                Padding="14">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="140"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Coefficient" Foreground="White" FontWeight="SemiBold"/>
+                <TextBlock Grid.Column="1" Text="Value" Foreground="White" FontWeight="SemiBold"/>
+                <TextBlock Grid.Column="2" Text="Unit" Foreground="White" FontWeight="SemiBold"/>
+
+                <TextBlock Grid.Row="1" Text="Kp" Foreground="White" VerticalAlignment="Center"/>
+                <TextBox x:Name="KpTextBox" Grid.Row="1" Grid.Column="1" Height="30" Margin="0,7,12,0"
+                         VerticalContentAlignment="Center"/>
+                <TextBlock x:Name="KpUnitTextBlock" Grid.Row="1" Grid.Column="2" Foreground="#B0BEC5"
+                           VerticalAlignment="Center" Margin="0,7,0,0"/>
+
+                <TextBlock Grid.Row="2" Text="Ki" Foreground="White" VerticalAlignment="Center"/>
+                <TextBox x:Name="KiTextBox" Grid.Row="2" Grid.Column="1" Height="30" Margin="0,7,12,0"
+                         VerticalContentAlignment="Center"/>
+                <TextBlock x:Name="KiUnitTextBlock" Grid.Row="2" Grid.Column="2" Foreground="#B0BEC5"
+                           VerticalAlignment="Center" Margin="0,7,0,0"/>
+
+                <TextBlock x:Name="KdLabelTextBlock" Grid.Row="3" Text="Kd" Foreground="White"
+                           VerticalAlignment="Center"/>
+                <TextBox x:Name="KdTextBox" Grid.Row="3" Grid.Column="1" Height="30" Margin="0,7,12,0"
+                         VerticalContentAlignment="Center"/>
+                <TextBlock x:Name="KdUnitTextBlock" Grid.Row="3" Grid.Column="2" Foreground="#B0BEC5"
+                           VerticalAlignment="Center" Margin="0,7,0,0"/>
+            </Grid>
+        </Border>
+
+        <Grid Grid.Row="3" Margin="0,16,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="120"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Content="DEFAULTS"
+                    Width="150"
+                    Height="36"
+                    HorizontalAlignment="Left"
+                    Background="#455A64"
+                    Foreground="White"
+                    FontWeight="SemiBold"
+                    Click="DefaultsButton_Click"/>
+            <Button Grid.Column="1"
+                    Content="CANCEL"
+                    Height="36"
+                    Margin="5,0"
+                    Background="#424242"
+                    Foreground="White"
+                    FontWeight="SemiBold"
+                    IsCancel="True"
+                    Click="CancelButton_Click"/>
+            <Button Grid.Column="2"
+                    Content="APPLY"
+                    Height="36"
+                    Margin="5,0,0,0"
+                    Background="#1976D2"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    IsDefault="True"
+                    Click="ApplyButton_Click"/>
+        </Grid>
+    </Grid>
+</Window>
